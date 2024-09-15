@@ -27,8 +27,10 @@ Este é um simulador do Omnitrix da série de Ben 10 (Clássico), criado usando 
 ## Sobre o Projeto
 
 Durante o desenvolvimento deste simulador do Omnitrix, aprendi bastante sobre a criação de interfaces gráficas com a biblioteca Tkinter, manipulando elementos como botões, imagens e eventos do mouse. Também explorei o uso da biblioteca Pillow para o processamento e exibição de imagens. Além de utilizar o editor de ádio "Audacity" para manipular os áudios mp3, usando a biblioteca Pygame para adicioná-los ao projeto, o que trouxe uma camada adicional de imersão ao simulador.
-Outro aspecto importante foi trabalhar com animações em Tkinter. Implementar a rotação suave do disco central foi um desafio interessante que me permitiu aprender mais sobre como criar e controlar animações utilizando Python. Além disso, integrar diferentes bibliotecas, como Pillow e Pygame, em um único projeto com Tkinter foi uma experiência enriquecedora.
+Outro aspecto importante foi trabalhar com animações em Tkinter. 
+
+Implementar a rotação suave do disco central foi interessante e me permitiu aprender mais sobre como criar e controlar animações utilizando Python. Além disso, integrar diferentes bibliotecas, como Pillow e Pygame, em um único projeto com Tkinter foi uma experiência enriquecedora.
 
 ## IA
 
-Para a realização deste projeto, usei e abusei do ChatGPT como uma ferramenta de suporte ao desenvolvimento. Essa experiência mostrou que o ChatGPT é capaz de amplificar a produtividade e a eficiência de programadores de forma gigantesca. Com ele, consegui obter respostas rápidas a dúvidas, dicas de implementação, exemplos práticos e até mesmo auxílio na resolução de problemas específicos que surgiram durante o desenvolvimento. Usando ele, foi capaz de finalizar o projeto em menos de 2 dias sem muita dificuldade, a presença dessa ferramenta tornou o processo muito mais ágil e eficiente.
+Para a realização deste projeto, usei e abusei do ChatGPT como uma ferramenta de suporte ao desenvolvimento. Essa experiência mostrou que o ChatGPT é capaz de amplificar a produtividade e a eficiência de programadores de forma estrondosa. Com ele, consegui obter respostas rápidas a dúvidas, dicas de implementação, exemplos práticos e até mesmo auxílio na resolução de problemas específicos que surgiram durante o desenvolvimento. Usando ele, fui capaz de finalizar o projeto em menos de 2 dias sem muita dificuldade, a presença dessa ferramenta tornou o processo muito mais ágil e eficiente.
